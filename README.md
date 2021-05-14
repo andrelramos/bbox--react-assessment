@@ -8,15 +8,11 @@ Você deve efetuar o _pull_ do código local e após a finalização, abrir um _
 TEMPO ESTIMADO DE RESOLUÇÃO: **30~45min**
 
 ## **Avaliação**
-Neste desafio, você deve identificar falhas no código que comprometam os seguintes itens:
-1. DDD
+Neste desafio, você deve identificar falhas no código que comprometam os seguintes itens e implementar as partes faltantes:
+1. Componentização
 2. Single Responsibility Principle
 3. Separation of Concerns
 4. Code quality
 5. Immutability
-## **Desafio**
-Você deve melhorar o código apresentado, levando em consideração os pontos de avaliação.
-## **Recomendações**
-Recomendamos a implementação dos seguintes itens:
-1. Nullish verification
-2. Module alias
+6. Nullish verification
+7. Module alias
