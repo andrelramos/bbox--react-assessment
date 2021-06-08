@@ -3,12 +3,13 @@
 
 # <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> Desafio Front-end BossaBox
 
-## **Instruções**
-Você deve efetuar o _pull_ do código local e após a finalização, abrir um _**Merge Request**_ para avaliação.
 TEMPO ESTIMADO DE RESOLUÇÃO: **30~45min**
 
-## **Avaliação**
-Neste desafio, você deve identificar falhas no código que comprometam os seguintes itens e implementar as partes faltantes:
+## **Instruções**
+Você deve enviar por e-mail um arquivo informando as modificações necessárias no código para atender aos requisitos exigidos.
+
+## **Requisitos**
+O código não deve possuir falhas que comprometam os seguintes itens:
 1. Componentização
 2. Single Responsibility Principle
 3. Separation of Concerns
@@ -16,3 +17,5 @@ Neste desafio, você deve identificar falhas no código que comprometam os segui
 5. Immutability
 6. Nullish verification
 7. Module alias
+
+PS.: Você deve informar no e-mail, implementações que precisem ser executadas das partes faltantes.
