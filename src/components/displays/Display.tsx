@@ -1,5 +1,5 @@
 import React from "react";
-import "./Display.css";
+import "@components/displays/styles/Display.css";
 
 interface Props {
   value: string;
